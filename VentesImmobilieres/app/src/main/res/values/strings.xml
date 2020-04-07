@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">VentesImmobilières</string>
+    <string name="title_activity__annonce">Activity_Annonce</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_annonce">ActivityAnnonce</string>
+
+    <!-- Menu principal -->
+    <string name="b_annonce_hasard">Bien immobilier au hasard</string>
+    <string name="b_deposer_bien">Déposer un bien</string>
+    <string name="b_lister_bien">Lister les biens</string>
+    <string name="b_profil">Mon profil</string>
+
+    <!-- List annonces -->
+    <string name="no_results">Aucunes annonces enregistrées</string>
+
+    <!-- Toolbar ActivityAnnonce -->
+    <string name="b_return_menu">Menu</string>
+    <string name="b_sauvegarder_annonce">Sauvegarder sur l\'appareil</string>
+    <string name="b_supprimer_annonce">Supprimer de l\'appareil</string>
+    <string name="b_annonces_enregistrees">Annonces sauvegardées</string>
+    <string name="b_photo">Photo</string>
+    <string name="b_ajouter_remarque">Ajouter une remarque</string>
+
+    <!-- Activity remarque -->
+    <string name="rem_label_title">Ajouter une remarque</string>
+    <string name="rem_hint">Entrez votre remarque.</string>
+    <string name="b_rem_valider">Valider</string>
+    <string name="b_rem_retour">Retour</string>
+</resources>
